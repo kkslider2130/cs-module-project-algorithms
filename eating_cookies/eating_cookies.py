@@ -43,7 +43,7 @@ def eating_cookies(n):
 # cache solution
 
 # def eating_cookies(n,cache=None)
-#     if n < n:
+#     if n < 0:
 #         return 0
 #     elif n==0:
 #         return 1
